@@ -2,6 +2,8 @@
 
 A star rating system built using HTML, CSS, and JavaScript. This project demonstrates interactive star ratings with smooth hover effects and animated feedback. Ideal for adding a user-friendly rating component to your web applications or personal projects.
 
+![preview](https://github.com/user-attachments/assets/31d39af9-691e-46d8-8962-5b2190e3007e)
+
 ## Features
 
 - 🌟 **Interactive star rating**: Allows users to rate with visual feedback.
